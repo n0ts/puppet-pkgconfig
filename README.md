@@ -1,12 +1,13 @@
 # Pkgconfig Puppet Module for Boxen
 
-Requires the following boxen modules:
-
-* `boxen`
-* `homebrew`
-
 ## Usage
 
 ```puppet
 include pkgconfig
 ```
+
+## Required Puppet Modules
+
+* `boxen`
+* `homebrew`
+* `stdlib`
