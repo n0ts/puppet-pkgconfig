@@ -1,3 +1,4 @@
+# Public: PkgConfig
 class pkgconfig {
   package {
     'gettext': ;
